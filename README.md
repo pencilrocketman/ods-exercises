@@ -1,1 +1,1 @@
-My Solution for ODS Excercises with Java.
+My Solution for ODS Exercises with Java.
